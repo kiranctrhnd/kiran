@@ -1,4 +1,4 @@
 public stativ void main(){
-int a,b,c
+int a,b,c{
 c=a+b
 }
